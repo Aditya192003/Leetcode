@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya192003/Leetcode/tree/master/0189-rotate-array) |
+| [0670-maximum-swap](https://github.com/Aditya192003/Leetcode/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Aditya192003/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya192003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Aditya192003/Leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditya192003/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
