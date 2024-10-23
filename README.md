@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Aditya192003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aditya192003/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aditya192003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aditya192003/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Aditya192003/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aditya192003/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
