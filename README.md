@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Aditya192003/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aditya192003/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya192003/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aditya192003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Aditya192003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aditya192003/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aditya192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -159,13 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
