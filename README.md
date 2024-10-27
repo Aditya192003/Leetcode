@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya192003/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aditya192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya192003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aditya192003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Aditya192003/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya192003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aditya192003/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
