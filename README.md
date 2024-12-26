@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya192003/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Aditya192003/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Aditya192003/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya192003/Leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya192003/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aditya192003/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Aditya192003/Leetcode/tree/master/0567-permutation-in-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya192003/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Aditya192003/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya192003/Leetcode/tree/master/1256-rank-transform-of-an-array) |
