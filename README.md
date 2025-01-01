@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya192003/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Aditya192003/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aditya192003/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya192003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/Aditya192003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aditya192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Aditya192003/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Aditya192003/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya192003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aditya192003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya192003/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya192003/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya192003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Aditya192003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aditya192003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya192003/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
