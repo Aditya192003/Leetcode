@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya192003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Aditya192003/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aditya192003/Leetcode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aditya192003/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya192003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Aditya192003/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aditya192003/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya192003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Aditya192003/Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aditya192003/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya192003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aditya192003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya192003/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aditya192003/Leetcode/tree/master/0148-sort-list) |
