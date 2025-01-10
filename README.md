@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya192003/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya192003/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya192003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -227,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya192003/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/Aditya192003/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aditya192003/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya192003/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Aditya192003/Leetcode/tree/master/0731-my-calendar-ii) |
