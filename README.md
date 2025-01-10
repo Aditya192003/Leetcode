@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya192003/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/Aditya192003/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Aditya192003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/Aditya192003/Leetcode/tree/master/0837-most-common-word) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya192003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aditya192003/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
