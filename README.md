@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aditya192003/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Aditya192003/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Aditya192003/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Aditya192003/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aditya192003/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya192003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Aditya192003/Leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Aditya192003/Leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
