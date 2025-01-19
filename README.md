@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aditya192003/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aditya192003/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aditya192003/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Aditya192003/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aditya192003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya192003/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Aditya192003/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya192003/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Aditya192003/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aditya192003/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Aditya192003/Leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
