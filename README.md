@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Aditya192003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0837-most-common-word](https://github.com/Aditya192003/Leetcode/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/Aditya192003/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0943-sum-of-subarray-minimums](https://github.com/Aditya192003/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Aditya192003/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya192003/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya192003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Aditya192003/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0943-sum-of-subarray-minimums](https://github.com/Aditya192003/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya192003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aditya192003/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aditya192003/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
