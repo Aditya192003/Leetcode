@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya192003/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Aditya192003/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aditya192003/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aditya192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aditya192003/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya192003/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aditya192003/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya192003/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aditya192003/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aditya192003/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya192003/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aditya192003/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aditya192003/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -359,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Aditya192003/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya192003/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aditya192003/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
