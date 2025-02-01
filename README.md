@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aditya192003/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya192003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/Aditya192003/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Aditya192003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/Aditya192003/Leetcode/tree/master/0837-most-common-word) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aditya192003/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aditya192003/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya192003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aditya192003/Leetcode/tree/master/1002-maximum-width-ramp) |
