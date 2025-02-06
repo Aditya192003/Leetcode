@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aditya192003/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0500-keyboard-row](https://github.com/Aditya192003/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya192003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya192003/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Aditya192003/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Aditya192003/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya192003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aditya192003/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0837-most-common-word](https://github.com/Aditya192003/Leetcode/tree/master/0837-most-common-word) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya192003/Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Aditya192003/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aditya192003/Leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya192003/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya192003/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya192003/Leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/Aditya192003/Leetcode/tree/master/0837-most-common-word) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Aditya192003/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya192003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Aditya192003/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya192003/Leetcode/tree/master/0135-candy) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Aditya192003/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya192003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya192003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Aditya192003/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditya192003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Aditya192003/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aditya192003/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
