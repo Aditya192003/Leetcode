@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aditya192003/Leetcode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Aditya192003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aditya192003/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya192003/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aditya192003/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya192003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aditya192003/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Aditya192003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya192003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya192003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya192003/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya192003/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aditya192003/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aditya192003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya192003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aditya192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/Aditya192003/Leetcode/tree/master/2625-increment-submatrices-by-one) |
